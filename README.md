@@ -79,7 +79,11 @@ return 0;
 ```
 
 # OUTPUT
-<img width="615" height="337" alt="545342003-fae448d6-d237-48b3-baff-08c109ba907b" src="https://github.com/user-attachments/assets/7715b289-1769-42bd-993e-cf22a28960fd" />
+![WhatsApp Image 2026-03-12 at 11 39 06 AM](https://github.com/user-attachments/assets/de3b51b1-a515-4156-bf95-0343d5b137ad)
 
-# RESULT
+
+
+
+#RESULT
+
 The lexical analyzer is implemented using lex and the output is verified.
